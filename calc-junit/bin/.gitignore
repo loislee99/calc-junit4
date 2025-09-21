@@ -1,0 +1,14 @@
+VS Code
+.vscode/settings.json
+
+Java
+*.class
+
+빌드 산출물
+target/
+bin/
+
+로컬 설정 파일 및 로그
+*.log
+*.jar
+*.iml
