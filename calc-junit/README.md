@@ -28,3 +28,6 @@ VS Code 왼쪽 사이드바에서 Test Runner 아이콘(플라스크 모양)을 
 
 <JUnit 테스트 결과>
 
+![JUnit 테스트 성공](./Screen%20Shot%202025-09-22%20at%2012.42.30%20AM.png)
+
+
